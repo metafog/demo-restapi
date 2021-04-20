@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://planetr.io/img/logo-github.png"></img>
+</div>
+
 # Planetr Demo: demo-restapi
 Run a Microservice REST API 
 
